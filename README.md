@@ -1,8 +1,8 @@
 # Contributors
 
-In order to become a contributor on our programmer network platform, you will need to sign our Contributor Agreement. This agreement outlines the terms and conditions of your participation on the project, including your responsibilities as a contributor, the expectations for your time commitment, and the process for submitting and reviewing code.
+In order to become a contributor on our programmer network platform, you will need to sign our [Contributor Agreement](./Contribution-Agrement.md). This agreement outlines the terms and conditions of your participation on the project, including your responsibilities as a contributor, the expectations for your time commitment, and the process for submitting and reviewing code.
 
-_Please note_ that the Contributor Agreement _can be terminated_ if you are unable to meet the commitments and expectations outlined in the agreement, or if you fail to make a sufficient effort towards the project.
+_Please note_ that the [Contributor Agreement](./Contribution-Agrement.md) _can be terminated_ if you are unable to meet the commitments and expectations outlined in the agreement, or if you fail to make a sufficient effort towards the project. The agreement will be signed digitally using a digital signature platform.
 
 Being a contributor on a programmer network platform is a rewarding and challenging experience that requires dedication, communication, and teamwork. As a contributor, you will have the opportunity to collaborate with a team of like-minded individuals, contribute to the growth and development of the platform, and expand your own skills and knowledge.
 
