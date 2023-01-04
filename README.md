@@ -1,10 +1,6 @@
 # Contributors
 
-<div align="center">
-      <a href="https://www.youtube.com/watch?v=pkMOlZklVzA">
-         <img src="https://img.youtube.com/vi/pkMOlZklVzA/0.jpg" style="width:100%;">
-      </a>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pkMOlZklVzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 In order to become a contributor on our programmer network platform, you will need to sign our [Contributor Agreement](./Contribution-Agrement.md). This agreement outlines the terms and conditions of your participation on the project, including your responsibilities as a contributor, the expectations for your time commitment, and the process for submitting and reviewing code.
 
