@@ -1,6 +1,6 @@
 # Contributors
 
-<div align="center">
+<div align="center" style="margin-bottom: 25px;">
       <a href="https://www.youtube.com/watch?v=pkMOlZklVzA">
          <img src="https://img.youtube.com/vi/pkMOlZklVzA/0.jpg" style="width:100%;">
       </a>
