@@ -6,7 +6,9 @@
       </a>
 </div>
 
-> _Please read the requirements for becoming a contributor and joining the Programmer Network Team. Once you have done so, please fill out the ***[Google Form](https://forms.gle/AfeGuPESexKjpjXM7)*** with the necessary details so that we can send you the digital version of the agreement._
+---
+
+_Please read the requirements for becoming a contributor and joining the Programmer Network Team. Once you have done so, please fill out the ***[Google Form](https://forms.gle/AfeGuPESexKjpjXM7)*** with the necessary details so that we can send you the digital version of the agreement._
 
 ---
 
