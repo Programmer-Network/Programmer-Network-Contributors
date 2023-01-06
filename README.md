@@ -6,7 +6,9 @@
       </a>
 </div>
 
-Please read the requirements for becoming a contributor and joining the Programmer Network Team. Once you have done so, please fill out the **_[Google Form](https://forms.gle/AfeGuPESexKjpjXM7)_** with the necessary details so that we can send you the digital version of the agreement.
+> _Please read the requirements for becoming a contributor and joining the Programmer Network Team. Once you have done so, please fill out the ***[Google Form](https://forms.gle/AfeGuPESexKjpjXM7)*** with the necessary details so that we can send you the digital version of the agreement._
+
+---
 
 In order to become a contributor on our programmer network platform, you will need to sign our [Contributor Agreement](./Contribution-Agrement.md). This agreement outlines the terms and conditions of your participation on the project, including your responsibilities as a contributor, the expectations for your time commitment, and the process for submitting and reviewing code.
 
