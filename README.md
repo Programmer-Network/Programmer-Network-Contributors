@@ -6,6 +6,8 @@
       </a>
 </div>
 
+Please read the requirements for becoming a contributor and joining the Programmer Network Team. Once you have done so, please fill out the **_[Google Form](https://forms.gle/AfeGuPESexKjpjXM7)_** with the necessary details so that we can send you the digital version of the agreement.
+
 In order to become a contributor on our programmer network platform, you will need to sign our [Contributor Agreement](./Contribution-Agrement.md). This agreement outlines the terms and conditions of your participation on the project, including your responsibilities as a contributor, the expectations for your time commitment, and the process for submitting and reviewing code.
 
 _Please note_ that the [Contributor Agreement](./Contribution-Agrement.md) _can be terminated_ if you are unable to meet the commitments and expectations outlined in the agreement, or if you fail to make a sufficient effort towards the project. The agreement will be signed digitally using a digital signature platform.
